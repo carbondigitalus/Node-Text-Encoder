@@ -41,3 +41,13 @@ const writeTextFile = async () => {
     throw err;
   }
 };
+
+(async () => {
+  try {
+    const x = await writeTextFile();
+    console.log(x);
+  } catch (err) {
+    console.log(err.message);
+    throw err;
+  }
+})();
