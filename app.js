@@ -32,4 +32,12 @@ const writeFilePro = (file, data) => {
   });
 };
 
-console.log(updatedString);
+const writeTextFile = async () => {
+  try {
+    await writeFilePro('results.txt', updatedString);
+    console.log('encoded text written to document');
+  } catch (err) {
+    console.log(err.message);
+    throw err;
+  }
+};
