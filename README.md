@@ -40,8 +40,6 @@
     <a href="https://github.com/carbondigitalus/node-text-encoder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/carbondigitalus/node-text-encoder">View Demo</a>
-    ·
     <a href="https://github.com/carbondigitalus/node-text-encoder/issues">Report Bug</a>
     ·
     <a href="https://github.com/carbondigitalus/node-text-encoder/issues">Request Feature</a>
