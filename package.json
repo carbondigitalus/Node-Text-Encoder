@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/carbondigitalus/Node-Text-Encoder/issues"
   },
-  "homepage": "https://github.com/carbondigitalus/Node-Text-Encoder#readme"
+  "homepage": "https://github.com/carbondigitalus/Node-Text-Encoder#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
