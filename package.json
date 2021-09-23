@@ -32,5 +32,8 @@
   "homepage": "https://github.com/carbondigitalus/Node-Text-Encoder#readme",
   "devDependencies": {
     "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "fast-text-encoding": "^1.0.3"
   }
 }
