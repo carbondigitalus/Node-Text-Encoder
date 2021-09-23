@@ -23,7 +23,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][https://github.com/carbondigitalus/Node-Text-Encoder/issues]
 [![MIT License][license-shield]][license-url]
 
 
@@ -74,7 +74,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -84,18 +83,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`carbondigitalus`, `node-text-encoder`, `carbondigitalus`, `hello@carbondigital.us`, `node-text-encoder`, `Text encoder built for encoding email addresses, but useful for any simple conversions.`
+This is a very simple string to HTML code conversion tool. This is a tool that we utilize for client websites to assist in masking their email address from spam bot crawlers. There aren't any guarantees that you'll be safe, but it helps to take extra precautions.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Node](https://nodejs.org)
+* [NPM](https://www.npmjs.com/)
+* [NPM Package fast-text-encoding](https://www.npmjs.com/package/fast-text-encoding)
 
 
 
@@ -132,7 +127,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
+If you need to, you can verify that your encoding is correct with [Text Fixer](https://www.textfixer.com/html/html-to-text.php).
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -160,26 +155,12 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@carbondigitalus](https://twitter.com/carbondigitalus) - hello@carbondigital.us
-
-Project Link: [https://github.com/carbondigitalus/node-text-encoder](https://github.com/carbondigitalus/node-text-encoder)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * []()
 * []()
 * []()
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
