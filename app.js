@@ -23,4 +23,13 @@ const stringifyArray = encodedArray.forEach((item, i) => {
 });
 ;
 
+const writeFilePro = (file, data) => {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(file, data, err => {
+      if (err) reject('Could not write file 😢');
+      resolve('success');
+    });
+  });
+};
+
 console.log(updatedString);
