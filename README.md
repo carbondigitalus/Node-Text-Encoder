@@ -10,8 +10,6 @@
 *** carbondigitalus, node-text-encoder, carbondigitalus, email, project_title, project_description
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -25,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -50,8 +47,6 @@
     <a href="https://github.com/carbondigitalus/node-text-encoder/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -78,25 +73,16 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
-  <img src="images/screenshot-variable.png" alt="screenshot code" width="300">
-</p>
-
 This is a very simple string to HTML code conversion tool. This is a tool that we utilize for client websites to assist in masking their email address from spam bot crawlers. There aren't any guarantees that you'll be safe, but it helps to take extra precautions.
-
 
 ### Built With
 
 * [Node](https://nodejs.org)
 * [NPM](https://www.npmjs.com/)
 * [NPM Package fast-text-encoding](https://www.npmjs.com/package/fast-text-encoding)
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -122,14 +108,19 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<p align="center">
+  <img src="images/screenshot-variable.png" alt="screenshot code" width="300">
+</p>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. For the variable, baseText, add your email address or text string to encode. Then save the file.
+2. Run project.
+   ```sh
+   npm run start
+   ```
+3. Your encoded text is located in the results.txt file.
 
 If you need to, you can verify that your encoding is correct with [Text Fixer](https://www.textfixer.com/html/html-to-text.php).
 
@@ -137,8 +128,6 @@ If you need to, you can verify that your encoding is correct with [Text Fixer](h
 ## Roadmap
 
 See the [open issues](https://github.com/carbondigitalus/node-text-encoder/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -151,13 +140,10 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
