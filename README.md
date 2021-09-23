@@ -118,7 +118,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm run start
    ```
-3. Your encoded text is located in the results.txt file.
+3. Your encoded text is located in the results.txt file and the console.
 
 If you need to, you can verify that your encoding is correct with [Text Fixer](https://www.textfixer.com/html/html-to-text.php).
 

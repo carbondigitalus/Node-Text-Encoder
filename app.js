@@ -51,3 +51,5 @@ const writeTextFile = async () => {
     throw err;
   }
 })();
+
+console.log(updatedString);
