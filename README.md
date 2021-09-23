@@ -23,7 +23,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/carbondigitalus/Node-Text-Encoder/issues]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 
@@ -82,6 +82,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+[![Product Name Screen Shot][images/screenshot-variable.png]](#)
 
 This is a very simple string to HTML code conversion tool. This is a tool that we utilize for client websites to assist in masking their email address from spam bot crawlers. There aren't any guarantees that you'll be safe, but it helps to take extra precautions.
 
