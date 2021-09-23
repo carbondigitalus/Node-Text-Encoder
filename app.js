@@ -1,5 +1,5 @@
 // Core Modules
-
+const fs = require('fs');
 
 // NPM Modules
 require('fast-text-encoding');
