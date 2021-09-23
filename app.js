@@ -6,4 +6,10 @@ const baseText = 'hello@carbondigital.us';
 const buffer = new TextEncoder().encode(baseText);
 
 let encodedArray = [];
-console.log(buffer);
+
+const updatedArray = buffer.map((item) => {
+  updatedItem = '&#'+ item + ';';
+  encodedArray.push(updatedItem);
+});
+
+console.log(encodedArray);
