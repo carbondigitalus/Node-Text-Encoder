@@ -12,4 +12,11 @@ const updatedArray = buffer.map((item) => {
   encodedArray.push(updatedItem);
 });
 
-console.log(encodedArray);
+let updatedString = '';
+
+const stringifyArray = encodedArray.forEach((item, i) => {
+  updatedString += item;
+});
+;
+
+console.log(updatedString);
