@@ -1,0 +1,32 @@
+{
+  "name": "node-text-encoder",
+  "version": "1.0.0",
+  "description": "Text encoder built for encoding email addresses, but useful for any simple conversions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbondigitalus/Node-Text-Encoder.git"
+  },
+  "keywords": [
+    "node",
+    "text",
+    "encode",
+    "encoder",
+    "email",
+    "address",
+    "html",
+    "hex",
+    "code",
+    "convert",
+    "conversion"
+  ],
+  "author": "carbondigitalus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbondigitalus/Node-Text-Encoder/issues"
+  },
+  "homepage": "https://github.com/carbondigitalus/Node-Text-Encoder#readme"
+}
