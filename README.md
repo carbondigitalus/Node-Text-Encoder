@@ -84,7 +84,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="images/screenshot-variable.png" alt="screenshot code" width="80" height="80">
+  <img src="images/screenshot-variable.png" alt="screenshot code" width="300">
 </p>
 
 This is a very simple string to HTML code conversion tool. This is a tool that we utilize for client websites to assist in masking their email address from spam bot crawlers. There aren't any guarantees that you'll be safe, but it helps to take extra precautions.
